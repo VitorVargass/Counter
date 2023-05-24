@@ -1,0 +1,34 @@
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.Form1.resources
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Counter\Counter\bin\Debug\net6.0-windows\Counter.exe
+C:\Users\vitor\source\repos\Counter\Counter\bin\Debug\net6.0-windows\Counter.deps.json
+C:\Users\vitor\source\repos\Counter\Counter\bin\Debug\net6.0-windows\Counter.runtimeconfig.json
+C:\Users\vitor\source\repos\Counter\Counter\bin\Debug\net6.0-windows\Counter.dll
+C:\Users\vitor\source\repos\Counter\Counter\bin\Debug\net6.0-windows\Counter.pdb
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.dll
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\refint\Counter.dll
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.pdb
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\Counter.genruntimeconfig.cache
+C:\Users\vitor\source\repos\Counter\Counter\obj\Debug\net6.0-windows\ref\Counter.dll
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\bin\Debug\net6.0-windows\Counter.exe
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\bin\Debug\net6.0-windows\Counter.deps.json
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\bin\Debug\net6.0-windows\Counter.runtimeconfig.json
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\bin\Debug\net6.0-windows\Counter.dll
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\bin\Debug\net6.0-windows\Counter.pdb
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.Form1.resources
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.dll
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\refint\Counter.dll
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.pdb
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\Counter.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Programa C#\Counter\Counter\obj\Debug\net6.0-windows\ref\Counter.dll
