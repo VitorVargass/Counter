@@ -1,4 +1,6 @@
-Fiz esse contador que foi um projeto solicitado na faculdade usando a linguagem C# onde tinhamos que fazer um contador com os seguintes requisitos:
+![image](https://github.com/VitorVargass/Counter/assets/121463179/60e2d2df-1625-4a63-a681-5b47c7226a87)
+
+:hourglass: Fiz esse contador que foi um projeto solicitado na faculdade usando a linguagem C# onde tinhamos que fazer um contador com os seguintes requisitos: :hourglass:
 
 -O programa deve ter um formulário com alguns componentes.
 
@@ -24,4 +26,6 @@ contagem. Após clicar no Reset, o usuário poderá clicar novamente no botão �
 aqui” e iniciar nova contagem
 
 
-![image](https://github.com/VitorVargass/Counter/assets/121463179/60e2d2df-1625-4a63-a681-5b47c7226a87)
+:smile:	 Espero que vocês gostem :smile:	
+
+
