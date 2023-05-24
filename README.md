@@ -1,4 +1,4 @@
-Fiz esse contador que foi um projeto da faculdade na linguagem C# onde tinhamos que fazer um contador com as seguintes condições:
+Fiz esse contador que foi um projeto solicitado na faculdade usando a linguagem C# onde tinhamos que fazer um contador com os seguintes requisitos:
 
 -O programa deve ter um formulário com alguns componentes.
 
